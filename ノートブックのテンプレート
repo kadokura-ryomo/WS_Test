@@ -1,0 +1,42 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "ノートブック名",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyOJvPMvEtGMWaVkX84cXzXc",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/kadokura-ryomo/WS_Test/blob/test/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%96%E3%83%83%E3%82%AF%E3%81%AE%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "tmGv1Qc28Bq2"
+      },
+      "source": [
+        "RSリモート環境では「ノートブックを新規作成」が不可のため、\n",
+        "当ファイルを新規ドキュメントとしてお使いください。"
+      ]
+    }
+  ]
+}
